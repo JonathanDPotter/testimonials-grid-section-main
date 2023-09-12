@@ -33,7 +33,7 @@ Users should be able to:
 
 - Original challenge: [https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub)
 
-- Live Site URL: [https://jonathandpotter.github.io/testimonials-grid-section-main/]([https://your-live-site-url.com](https://jonathandpotter.github.io/testimonials-grid-section-main/)
+- Live Site URL: [https://jonathandpotter.github.io/testimonials-grid-section-main/](https://jonathandpotter.github.io/testimonials-grid-section-main/)
 
 ## My process
 
