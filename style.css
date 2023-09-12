@@ -110,7 +110,7 @@ section:nth-child(5) {
 
 @media only screen and (min-width: 1024px) {
   main {
-    grid-template: 4 repeat(4, 1fr) / 2 repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     max-width: 1400px;
   }
 
